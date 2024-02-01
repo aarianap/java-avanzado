@@ -14,6 +14,10 @@
  * 3    50  60  70  80  90  100
  * ⬆->total de filas, length = 4
  */
+//Declaracion e instanciacion
+/*
+ *
+ */
 
 public class Introduccion {
 }
