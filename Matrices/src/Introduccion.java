@@ -116,10 +116,28 @@
  *
  * for(int i = 0;i<nombres.length; i++){
  *  for(int j = 0 ; j < nombres.length; j++){
+ *      System.out.printl("nombres = nombres[i][j]");
  *  }
  * }
- *
- *
  */
+//Recorrer una matriz usando foreach
+/* String[][] nombres = new String[3][2];
+
+ * nombres[0][0] = "Pepe";
+ * nombres[0][1] = "Maria";
+ *
+ * nombres[1][0] = "Pato";
+ * nombres[1][1] = "Bea";
+ *
+ * nombres[2][0] = "Lucas";
+ * nombres[2][1] = "Luci";
+ *
+ * for(String[] fila : nombres){
+ *  for(String columna :fila){
+ *      System.out.printl("nombres = columna");
+ *  }
+ * }
+ */
+
 public class Introduccion {
 }
