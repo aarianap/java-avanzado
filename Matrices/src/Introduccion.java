@@ -9,9 +9,9 @@
 
 //Representacion
 /*
- * 0    1   2   3   4   5   6  ->Total de columnas length = 6
+ * 0    1   2   3   4   5   6  →Total de columnas length = 6
  * 1    20  22  24  26  28  30
- * 2    31  33  35  37  39  40  ->Numero 40 se encuentra en la posicion[2][6]
+ * 2    31  33  35  37  39  40 →Número 40 se encuentra en la posicion[2][6]
  * 3    50  60  70  80  90  100
  * ⬆->total de filas, length = 4
  */
@@ -92,6 +92,34 @@
  * int num2 = numeros[0][1];
  * int num3 = numeros[0][2];
  * int num4 = numeros[0][3];
+ */
+
+//Declaracion, instanciacion e inicializacion de una matriz
+/* Se utiliza cuando conocemos los elementos y el tamañp de la matriz
+ *
+ * Ejemplo:
+ *
+ * int[][] numeros = {{1,2,3,4},{11,12,13,14}}
+ */
+
+//Recorrer una matriz usando for
+/* String[][] nombres = new String[3][2];
+
+ * nombres[0][0] = "Pepe";
+ * nombres[0][1] = "Maria";
+ *
+ * nombres[1][0] = "Pato";
+ * nombres[1][1] = "Bea";
+ *
+ * nombres[2][0] = "Lucas";
+ * nombres[2][1] = "Luci";
+ *
+ * for(int i = 0;i<nombres.length; i++){
+ *  for(int j = 0 ; j < nombres.length; j++){
+ *  }
+ * }
+ *
+ *
  */
 public class Introduccion {
 }
