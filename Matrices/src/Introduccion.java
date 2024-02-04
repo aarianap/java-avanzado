@@ -116,10 +116,8 @@
  *
  * for(int i = 0;i<nombres.length; i++){
  *  for(int j = 0 ; j < nombres.length; j++){
- *  }
+ *      }
  * }
- *
- *
  */
 public class Introduccion {
 }
