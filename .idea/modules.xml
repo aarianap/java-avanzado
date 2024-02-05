@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CursoAvanzado.iml" filepath="$PROJECT_DIR$/CursoAvanzado.iml" />
       <module fileurl="file://$PROJECT_DIR$/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Matrices/Matrices.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PequeEjemploInterfacer/PequeEjemploInterfacer.iml" filepath="$PROJECT_DIR$/PequeEjemploInterfacer/PequeEjemploInterfacer.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
     </modules>
