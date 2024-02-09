@@ -8,9 +8,22 @@ public class EjemploMatricesBuscar {
 
         int elementoBuscar = 15;
         boolean encontrado = false;
+        int i = 0;
+        int j = 0;
 
-        for(int i = 0; i < matrizDeEnteros.length;){
-
+        buscar: for(i = 0; i < matrizDeEnteros.length;){
+            for (j = 0; j< matrizDeEnteros[i].length;j++){
+                if (matrizDeEnteros[i][j] == elementoBuscar){
+                    encontrado = true;
+                    break buscar;
+                }
+            }
         }
+        if (encontrado){
+            System.out.println("encontrado: " + elementoBuscar + " en las cordenadas" + i + "." + j  );
+        } else {
+            System.out.println(elementoBuscar + " no se encunetra en la matriz");
+        }
+
     }
 }
