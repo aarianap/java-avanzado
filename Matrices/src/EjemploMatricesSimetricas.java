@@ -1,6 +1,6 @@
 public class EjemploMatricesSimetricas {
     public static void main(String[] args) {
-        boolean simetrica = false;
+        boolean simetrica = true;
         int[][] matriz = {
                 {1,2,3,4},
                 {2,1,0,5},
